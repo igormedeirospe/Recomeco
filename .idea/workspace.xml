@@ -5,19 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c72b6c63-5b78-4ac9-8508-2e562dff43c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ParteDois/usandoSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ParteDois/usandoSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/desafioDois/DesafioDif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafioDois/DesafioDif.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/desafioTres/decrescente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafioTres/decrescente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/desafioUm/desafioImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafioUm/desafioImpar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recomeco/ScannerNome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recomeco/ScannerNome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/recomeco/aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/recomeco/aluno.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "igormedeirospe"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/igormedeirospe/Recomeco.git",
+    "accountId": "db405edc-980e-4436-9884-bb3131a84300"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2kuGZYCpyPgiT9AMMI2JzDaRBqf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,12 +51,96 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DesafioDif.executor": "Run",
+    "Application.Scanner.executor": "Run",
+    "Application.ScannerNome.executor": "Run",
+    "Application.cursoDois.executor": "Run",
+    "Application.decrescente.executor": "Run",
+    "Application.desafioImpar.executor": "Run",
+    "Application.recomeco.executor": "Run",
+    "Application.usandoSwitch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Igor/Desktop/Recomeco/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.ScannerNome">
+    <configuration name="DesafioDif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafioDois.DesafioDif" />
+      <module name="Recomeco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafioDois.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerNome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recomeco.ScannerNome" />
+      <module name="Recomeco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recomeco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="decrescente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafioTres.decrescente" />
+      <module name="Recomeco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafioTres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="desafioImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafioUm.desafioImpar" />
+      <module name="Recomeco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafioUm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="usandoSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParteDois.usandoSwitch" />
+      <module name="Recomeco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ParteDois.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScannerNome" />
+        <item itemvalue="Application.decrescente" />
+        <item itemvalue="Application.DesafioDif" />
+        <item itemvalue="Application.desafioImpar" />
+        <item itemvalue="Application.usandoSwitch" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,16 +151,5 @@
       <updated>1724126105946</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
