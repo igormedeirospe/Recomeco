@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c72b6c63-5b78-4ac9-8508-2e562dff43c7" name="Changes" comment="commit 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/desafioQuatro/DesafioSenha.java" afterDir="false" />
+    <list default="true" id="c72b6c63-5b78-4ac9-8508-2e562dff43c7" name="Changes" comment="atualizando">
+      <change afterPath="$PROJECT_DIR$/src/main/java/desafioCinco/lerNotas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/desafioNove/nomeLetras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/desafioOito/desafioFatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/desafioSeis/tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/desafioSete/lerNumerosImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lacoRepeticao/contadorWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lacoRepeticao/usandoDeNovo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lacoRepeticao/useWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lacoRepeticao/whileMaiorMenor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lacoRepeticao/whileSorteio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,30 +53,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DesafioDif.executor": "Run",
-    "Application.DesafioSenha.executor": "Run",
-    "Application.Scanner.executor": "Run",
-    "Application.ScannerNome.executor": "Run",
-    "Application.cursoDois.executor": "Run",
-    "Application.decrescente.executor": "Run",
-    "Application.desafioImpar.executor": "Run",
-    "Application.recomeco.executor": "Run",
-    "Application.usandoSwitch.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Igor/Desktop/Recomeco/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DesafioDif.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioSenha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scanner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerNome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.contadorWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cursoDois.executor&quot;: &quot;Run&quot;,
+    &quot;Application.decrescente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.desafioFatorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.desafioImpar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.desafioTabuada.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lerNotas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lerNumerosImpar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nomeLetras.executor&quot;: &quot;Run&quot;,
+    &quot;Application.recomeco.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tabuada.executor&quot;: &quot;Run&quot;,
+    &quot;Application.usandoDeNovo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.usandoSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.useWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.whileMaiorMenor.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Igor/Desktop/Recomeco/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.DesafioSenha">
-    <configuration name="DesafioDif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafioDois.DesafioDif" />
+}</component>
+  <component name="RunManager" selected="Application.whileMaiorMenor">
+    <configuration name="contadorWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lacoRepeticao.contadorWhile" />
       <module name="Recomeco" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="desafioDois.*" />
+          <option name="PATTERN" value="lacoRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioSenha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafioQuatro.DesafioSenha" />
+    <configuration name="nomeLetras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafioNove.nomeLetras" />
       <module name="Recomeco" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="desafioQuatro.*" />
+          <option name="PATTERN" value="desafioNove.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerNome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recomeco.ScannerNome" />
+    <configuration name="usandoDeNovo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lacoRepeticao.usandoDeNovo" />
       <module name="Recomeco" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recomeco.*" />
+          <option name="PATTERN" value="lacoRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="decrescente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafioTres.decrescente" />
+    <configuration name="useWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lacoRepeticao.useWhile" />
       <module name="Recomeco" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="desafioTres.*" />
+          <option name="PATTERN" value="lacoRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="desafioImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafioUm.desafioImpar" />
+    <configuration name="whileMaiorMenor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lacoRepeticao.whileMaiorMenor" />
       <module name="Recomeco" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="desafioUm.*" />
+          <option name="PATTERN" value="lacoRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DesafioSenha" />
-        <item itemvalue="Application.ScannerNome" />
-        <item itemvalue="Application.decrescente" />
-        <item itemvalue="Application.DesafioDif" />
-        <item itemvalue="Application.desafioImpar" />
+        <item itemvalue="Application.whileMaiorMenor" />
+        <item itemvalue="Application.usandoDeNovo" />
+        <item itemvalue="Application.contadorWhile" />
+        <item itemvalue="Application.nomeLetras" />
+        <item itemvalue="Application.useWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -162,13 +181,51 @@
       <option name="project" value="LOCAL" />
       <updated>1729107646277</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit 2">
+      <option name="closed" value="true" />
+      <created>1729146024472</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729146024472</updated>
+    </task>
+    <task id="LOCAL-00004" summary="atualizando">
+      <option name="closed" value="true" />
+      <created>1729146047292</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729146047292</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="commit" />
     <MESSAGE value="commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
+    <MESSAGE value="atualizando" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizando" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/desafioTres/decrescente.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/desafioOito/desafioFatorial.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lacoRepeticao/usandoDeNovo.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
