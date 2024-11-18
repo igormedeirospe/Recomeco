@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c72b6c63-5b78-4ac9-8508-2e562dff43c7" name="Changes" comment="atualizando estudos 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lacoRepeticao/Dowhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lacoRepeticao/ValidandoSenha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lacoRepeticao/DoUseThinkNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lacoRepeticao/ValidandoSenha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lacoRepeticao/ValidandoSenha.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +55,11 @@
   "keyToString": {
     "Application.DesafioDif.executor": "Run",
     "Application.DesafioSenha.executor": "Run",
+    "Application.DoUseThinkNumber.executor": "Run",
     "Application.Dowhile.executor": "Run",
     "Application.Scanner.executor": "Run",
     "Application.ScannerNome.executor": "Run",
+    "Application.ValidandoSenha.executor": "Run",
     "Application.contadorWhile.executor": "Run",
     "Application.cursoDois.executor": "Run",
     "Application.decrescente.executor": "Run",
@@ -80,7 +82,20 @@
     "onboarding.tips.debug.path": "C:/Users/Igor/Desktop/Recomeco/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Dowhile">
+  <component name="RunManager" selected="Application.DoUseThinkNumber">
+    <configuration name="DoUseThinkNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lacoRepeticao.DoUseThinkNumber" />
+      <module name="Recomeco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lacoRepeticao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Dowhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lacoRepeticao.Dowhile" />
       <module name="Recomeco" />
@@ -94,21 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="contadorWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lacoRepeticao.contadorWhile" />
-      <module name="Recomeco" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lacoRepeticao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="usandoDeNovo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lacoRepeticao.usandoDeNovo" />
+    <configuration name="ValidandoSenha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lacoRepeticao.ValidandoSenha" />
       <module name="Recomeco" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoUseThinkNumber" />
+        <item itemvalue="Application.ValidandoSenha" />
         <item itemvalue="Application.Dowhile" />
         <item itemvalue="Application.whileSorteio" />
         <item itemvalue="Application.whileMaiorMenor" />
-        <item itemvalue="Application.usandoDeNovo" />
-        <item itemvalue="Application.contadorWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731866642217</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="atualizando estudos 2">
+      <option name="closed" value="true" />
+      <created>1731893589953</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731893589953</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -242,6 +252,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/lacoRepeticao/usandoDeNovo.java</url>
           <line>2</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lacoRepeticao/DoUseThinkNumber.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,4 +1,5 @@
 package lacoRepeticao;
+import java.util.Scanner;
 
 public class ValidandoSenha {
     /*  // Objetivo \\
@@ -10,12 +11,19 @@ public class ValidandoSenha {
     Requisitos:
     Utilize o laço do-while.
     Use a classe Scanner para receber a entrada do usuário.
-    A validação deve acontecer após o primeiro pedido de senha (garantindo que o bloco do do execute pelo menos uma vez).
+    A validação deve acontecer após o primeiro pedido de senha (garantindo que o bloco do "do" execute pelo menos uma vez).
     */
     public static void main(String[] args) {
-
-
-
-        
+    //System.out.println("Digite a sua senha : ");//exibir mensagem pedindo a senha que tem que ser "1234"
+    Scanner leuSenha = new Scanner(System.in);
+    int senha;
+    do {
+        System.out.println("Digite a senha");
+        senha = leuSenha.nextInt();if (senha != 1234) {
+            System.out.println("Senha inválida! Tente novamente.");
+        }
+    }while (senha != 1234);
+    System.out.println("parabens senha certa pae");
+    leuSenha.close();
     }
 }
