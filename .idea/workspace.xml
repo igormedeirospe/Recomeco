@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c72b6c63-5b78-4ac9-8508-2e562dff43c7" name="Changes" comment="atualizando estudos">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UtilizandoArray/arrayDois.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UtilizandoArray/firstUseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UtilizandoMetodos/carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UtilizandoMetodos/utilizando.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,57 +51,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.DesafioDif.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DesafioSenha.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoUseThinkNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dowhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Scanner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerNome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValidandoSenha.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arrayDois.executor&quot;: &quot;Run&quot;,
-    &quot;Application.contadorWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.cursoDois.executor&quot;: &quot;Run&quot;,
-    &quot;Application.decrescente.executor&quot;: &quot;Run&quot;,
-    &quot;Application.desafioFatorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.desafioImpar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.desafioTabuada.executor&quot;: &quot;Run&quot;,
-    &quot;Application.firstUseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lendoNumeroPosNeg.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lerNotas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lerNumerosImpar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nomeLetras.executor&quot;: &quot;Run&quot;,
-    &quot;Application.recomeco.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tabuada.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ultimoDesafio.executor&quot;: &quot;Run&quot;,
-    &quot;Application.usandoDeNovo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.usandoSwitch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.useWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.whileMaiorMenor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.whileSorteio.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Igor/Desktop/Recomeco/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.DesafioDif.executor": "Run",
+    "Application.DesafioSenha.executor": "Run",
+    "Application.DoUseThinkNumber.executor": "Run",
+    "Application.Dowhile.executor": "Run",
+    "Application.Scanner.executor": "Run",
+    "Application.ScannerNome.executor": "Run",
+    "Application.ValidandoSenha.executor": "Run",
+    "Application.arrayDois.executor": "Run",
+    "Application.contadorWhile.executor": "Run",
+    "Application.cursoDois.executor": "Run",
+    "Application.decrescente.executor": "Run",
+    "Application.desafioFatorial.executor": "Run",
+    "Application.desafioImpar.executor": "Run",
+    "Application.desafioTabuada.executor": "Run",
+    "Application.firstUseArray.executor": "Run",
+    "Application.lendoNumeroPosNeg.executor": "Run",
+    "Application.lerNotas.executor": "Run",
+    "Application.lerNumerosImpar.executor": "Run",
+    "Application.nomeLetras.executor": "Run",
+    "Application.recomeco.executor": "Run",
+    "Application.tabuada.executor": "Run",
+    "Application.ultimoDesafio.executor": "Run",
+    "Application.usandoDeNovo.executor": "Run",
+    "Application.usandoSwitch.executor": "Run",
+    "Application.useWhile.executor": "Run",
+    "Application.utilizando.executor": "Run",
+    "Application.whileMaiorMenor.executor": "Run",
+    "Application.whileSorteio.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Igor/Desktop/Recomeco/src/main/java/org/example/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.arrayDois">
-    <configuration name="DoUseThinkNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lacoRepeticao.DoUseThinkNumber" />
-      <module name="Recomeco" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lacoRepeticao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.utilizando">
     <configuration name="arrayDois" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UtilizandoArray.arrayDois" />
       <module name="Recomeco" />
@@ -155,13 +142,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="utilizando" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UtilizandoMetodos.utilizando" />
+      <module name="Recomeco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UtilizandoMetodos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.utilizando" />
         <item itemvalue="Application.arrayDois" />
         <item itemvalue="Application.firstUseArray" />
         <item itemvalue="Application.ultimoDesafio" />
         <item itemvalue="Application.lendoNumeroPosNeg" />
-        <item itemvalue="Application.DoUseThinkNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732387378262</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="atualizando estudos">
+      <option name="closed" value="true" />
+      <created>1733895061951</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733895061951</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
